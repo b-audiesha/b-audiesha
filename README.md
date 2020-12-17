@@ -1,8 +1,19 @@
-Hi there 👋
-Welcome to my world!
-Im Audi!
+Im Audi<br>
+Web Development Student<br>
+San Antonio, Texas<br>
 
-🔭 I’m currently working on suviving a pandemic while learning new programming languages.
+Im getting comfortable with<br>
+
+
+What im working on<br>
+
+🔭 I’m currently working on suviving a pandemic<br> while 
+learning new programming languages.<br>
+
+Happy Holidays Everyone<br>
+
+![tardis chrsitmas](https://user-images.githubusercontent.com/75684292/102520571-75598480-4059-11eb-9c09-835707f662ea.jpeg)
+
 
 
 <!--

@@ -8,8 +8,7 @@ I have a few credentials<br>
 Im getting comfortable with<br>
 <b>| Javascript | HTML | CSS |
 </b>
-What im working on<br>
-<b>| Python |
+<br>What im working on<b><br>| Python |
 </b>
 
 Happy Holidays Everyone<br>

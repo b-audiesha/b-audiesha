@@ -5,7 +5,9 @@ San Antonio, Texas<br>
 I have a few credentials<br>
 <b>BS/MA Communication</b>
 
-📫 Email me : brattin.audiesha@gmail.com <br>https://www.linkedin.com/in/audibrattin/<br>
+📫 Email me : brattin.audiesha@gmail.com 
+<br>https://www.linkedin.com/in/audibrattin/<br>
+<br> An older account thats not as fun <br> https://github.com/audiesha<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&theme=monokai)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-audiesha&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <!--

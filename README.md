@@ -20,8 +20,8 @@ Procreate <b> Pro <b>
 <br><b> Or on Social Media :<b/>https://www.linkedin.com/in/audibrattin/<br>
 
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&theme=monokai)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-audiesha&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&theme=onedark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-audiesha&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **b-audiesha/b-audiesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br> An older account thats not as fun <br> https://github.com/audiesha<br>

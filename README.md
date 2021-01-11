@@ -1,6 +1,6 @@
 Im Audi<br>
 <b>Full Stack</b> Web Development Student at CodeUp <br>
-San Antonio, Texas,for now.<br>
+San Antonio, Texas.<br>
 
 I have a few credentials<br>
 <b>Master or Art Communications & Marketing</b>

@@ -15,9 +15,21 @@ I have a few hobbies<br>
 Procreate <b> Pro <b>
 <br> Painting <br>
 
-<p>You can reach me:</p>
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/ABrattin
+[2]: https://www.linkedin.com/in/audibrattin
 📫 <b> By Email </b>: brattin.audiesha@gmail.com 
-<br><b> Or on Social Media :<b/>https://www.linkedin.com/in/audibrattin/<br>
+
 
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&theme=onedark)<br>

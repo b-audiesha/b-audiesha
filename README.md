@@ -2,38 +2,41 @@ Im Audi<br>
 <b>Full Stack</b> Web Development Student at CodeUp <br>
 San Antonio, Texas.<br>
 
-I have a few credentials<br>
-<b>Master or Art Communications & Marketing</b>
-<b>Bachelor of Science<br>
-  
-I've done a few cool things<br>
-<i>United States Navy</i> <b>Veteran</b>
-<br> Former Hospital Corpsman <b>2013 - 2019</b>
+<h1 align="center">Hi 👋, I'm Audi Brattin</h1>
+<h3 align="center">Front End Development Student in Texas</h3>
 
-I have a few hobbies<br>
-<b> Illustrator || Photoshop <b/><br>
-Procreate <b> Pro <b>
-<br> Painting <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-audiesha&label=Profile%20views&color=0e75b6&style=flat" alt="b-audiesha" /> </p>
 
-<!-- Actual text -->
+<p align="left"> <a href="https://twitter.com/abrattin" target="blank"><img src="https://img.shields.io/twitter/follow/abrattin?logo=twitter&style=for-the-badge" alt="abrattin" /></a> </p>
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 🔭 I’m currently working on [Learning Jquery & Gatsby JS](https://github.com/b-audiesha/javascript-practice-work)
 
-<!-- Icons -->
+- 🌱 I’m currently learning **Advanced Javascript and Java**
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+- 🤝 I’m looking for help with **Gatsby JS**
 
-<!-- Links to your social media accounts -->
+- 💬 Ask me about **My goals for the next 12 months**
 
-[1]: https://twitter.com/ABrattin
-[2]: https://www.linkedin.com/in/audibrattin
-📫 <b> By Email </b>: brattin.audiesha@gmail.com 
+- 📫 How to reach me **brattin.audiesha@gmail.com**
 
+- ⚡ Fun fact **I have a few credentials Master or Art Communications & Marketing Bachelor of Science I've done a few cool things United States Navy Veteran Former Hospital Corpsman 2013 - 2019**
 
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&theme=onedark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-audiesha&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**b-audiesha/b-audiesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br> An older account thats not as fun <br> https://github.com/audiesha<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abrattin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abrattin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/audibrattin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/audibrattin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/b-audiesha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="b-audiesha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/b_audiesha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="b_audiesha" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/baudiesha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baudiesha" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-audiesha&show_icons=true&locale=en&layout=compact" alt="b-audiesha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&locale=en" alt="b-audiesha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-audiesha&" alt="b-audiesha" /></p>

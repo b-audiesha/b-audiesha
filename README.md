@@ -9,17 +9,17 @@ San Antonio, Texas.<br>
 
 <p align="left"> <a href="https://twitter.com/abrattin" target="blank"><img src="https://img.shields.io/twitter/follow/abrattin?logo=twitter&style=for-the-badge" alt="abrattin" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Jquery & Gatsby JS](https://github.com/b-audiesha/javascript-practice-work)
+- 🔭 I’m currently working on [Learning JAVA](https://github.com/b-audiesha/codeup-java-exercises)
 
 - 🌱 I’m currently learning **Advanced Javascript and Java**
 
-- 🤝 I’m looking for help with **Gatsby JS**
+- 🤝 I’m looking for help with **React or SASS**
 
 - 💬 Ask me about **My goals for the next 12 months**
 
 - 📫 How to reach me **brattin.audiesha@gmail.com**
 
-- ⚡ Fun fact **I have a few credentials Master or Art Communications & Marketing Bachelor of Science I've done a few cool things United States Navy Veteran Former Hospital Corpsman 2013 - 2019**
+- ⚡ Fun fact **I have a few credentials Master or Art Communications & Marketing & a Bachelor of Science I've done a few cool things United States Navy Veteran Former Hospital Corpsman 2013 - 2019**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +34,7 @@ San Antonio, Texas.<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/baudiesha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baudiesha" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-audiesha&show_icons=true&locale=en&layout=compact" alt="b-audiesha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-audiesha&show_icons=true&locale=en" alt="b-audiesha" /></p>

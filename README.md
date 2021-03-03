@@ -1,9 +1,6 @@
-Im Audi<br>
+<h1 align="center">Hi 👋, I'm Audi Brattin</h1><br>
 <b>Full Stack</b> Web Development Student at CodeUp <br>
 San Antonio, Texas.<br>
-
-<h1 align="center">Hi 👋, I'm Audi Brattin</h1>
-<h3 align="center">Front End Development Student in Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-audiesha&label=Profile%20views&color=0e75b6&style=flat" alt="b-audiesha" /> </p>
 

@@ -8,13 +8,13 @@ San Antonio, Texas.<br>
 
 - 🔭 I’m currently working on [Learning JAVA](https://github.com/b-audiesha/codeup-java-exercises)
 
-- 🌱 I’m currently learning **Advanced Javascript and Java**
+- 🌱 I’m currently learning **Spring & Springboot**
 
-- 🤝 I’m looking for help with **React or SASS**
+- 🤝 I’m looking for help with **Cloud Certifications**
 
 - 💬 Ask me about **My goals for the next 12 months**
 
-- 📫 How to reach me **brattin.audiesha@gmail.com**
+- 📫 How to reach me **b.audiesha@gmail.com**
 
 - ⚡ Fun fact **I have a few credentials Master or Art Communications & Marketing & a Bachelor of Science I've done a few cool things United States Navy Veteran Former Hospital Corpsman 2013 - 2019**
 

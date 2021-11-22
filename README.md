@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Audi Brattin</h1><br>
-<b>Full Stack</b> Web Development Student at CodeUp <br>
-San Antonio, Texas.<br>
+<h1 align="center">Hi 👋, I'm Audiesha Brattin</h1><br>
+<b>Full Stack</b> Software Engineer at Accenture <br>
+Dallas, Texas.<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-audiesha&label=Profile%20views&color=0e75b6&style=flat" alt="b-audiesha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abrattin" target="blank"><img src="https://img.shields.io/twitter/follow/abrattin?logo=twitter&style=for-the-badge" alt="abrattin" /></a> </p>
 
-- 🔭 I’m currently working on [Learning JAVA](https://github.com/b-audiesha/codeup-java-exercises)
+- 🔭 I’m currently working on AWS Certifications
 
 - 🌱 I’m currently learning **Spring & Springboot**
 
